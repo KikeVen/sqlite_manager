@@ -106,10 +106,10 @@ Once integrated, your LLM agent will dynamically recognize the tools and extract
 
 ### Example Prompts to Try
 
-* *"Check my SQLite database structure at `C:/Data/app.db` and output a full list of all available tables."*
-* *"Run a structural analysis of the users table inside `/Users/username/Projects/analytics.db` to show its columns and keys."*
-* *"Execute a SELECT query over the items table in `C:\Cache\local.db` to extract records where the total is greater than 500."*
-* *"Optimize the database file page size located at `/var/lib/store.db` using a vacuum operation."*
+* *"Using `sqlite-manager` check my SQLite database structure at `C:/Data/app.db` and output a full list of all available tables."*
+* *"Using `sqlite-manager` run a structural analysis of the users table inside `/Users/username/Projects/analytics.db` to show its columns and keys."*
+* *"Using `sqlite-manager` execute a SELECT query over the items table in `C:\Cache\local.db` to extract records where the total is greater than 500."*
+* *"Using `sqlite-manager` optimize the database file page size located at `/var/lib/store.db` using a vacuum operation."*
 
 ---
 
