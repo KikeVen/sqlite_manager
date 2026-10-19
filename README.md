@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/python-3.10+-blue?style=flat-square)
 ![SQLite](https://img.shields.io/badge/SQLite-local--first-003B57?style=flat-square&logo=sqlite)
 ![MCP](https://img.shields.io/badge/MCP-server-8A2BE2?style=flat-square)
-![Platform](https://shields.io)
+![Platform](https://shields.io/badge/platform-cross--platform-4B0082?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
 
 An enterprise-grade **Model Context Protocol (MCP) Server v2** implementation designed to **manage local SQLite databases dynamically** through LLM chat sessions. This server provides AI agents (such as Claude Desktop, Cursor, and VS Code) with deep schema inspection, secure read/write capabilities, multi-statement ACID transactions, and structural database optimization tools natively via STDIO.
@@ -35,7 +35,7 @@ Open your preferred terminal window (such as PowerShell or Command Prompt on Win
 
 ```bash
 # Clone the repository workspace
-git clone https://github.com/KikeVen/sqlite-manager
+git clone https://github.com/KikeVen/sqlite-manager.git
 cd sqlite-manager
 
 # Build an isolated Python virtual environment
