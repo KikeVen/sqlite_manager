@@ -1,4 +1,4 @@
-# Context-Driven Model Context Protocol (MCP) SQLite Server
+# Context-Driven - (MCP) SQLite Server Manager
 
 ![Python](https://img.shields.io/badge/python-3.10+-blue?style=flat-square)
 ![SQLite](https://img.shields.io/badge/SQLite-local--first-003B57?style=flat-square&logo=sqlite)
